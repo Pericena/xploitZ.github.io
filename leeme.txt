@@ -1,0 +1,12 @@
+Hi bro
+________________________________________________
+Pasos
+1. instalar xammp 
+https://www.apachefriends.org/xampp-files/5.6.38/xampp-win32-5.6.38-0-VC11-installer.exe
+2. copiar la carpeta xploitZ en la ruta 
+           C:\xampp\htdocs\xploitZ
+3. correr xammp debe estar verde fijate en carpeta imag 
+ hay te dejo una imagen como debe estar
+4. ejecutar xploitZ 
+5. elejir las opciones
+6. enviar el link a la victima
