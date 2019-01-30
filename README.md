@@ -57,9 +57,7 @@ Aclarar que tambien tiene una opcion para descargar xammp he instalar
 
 ### Y las pruebas de estilo de codificación
 
-```
 ![](https://2.bp.blogspot.com/-_Q4y3M1MCxc/XDiuqyoFvMI/AAAAAAAANBg/0yZkZXsuZHY5JDDyRjgPvDmXXtaH72QQQCLcBGAs/s1600/Screenshot_6.png)
-```
 
 ## Deployment ðŸ“¦
 - LICENSE
