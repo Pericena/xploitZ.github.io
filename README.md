@@ -11,7 +11,7 @@ entre los usuarios y cierto mito de que un exploit puede considerarse malware. L
 De esta forma, puede proporcionarles los permisos necesarios para poder ejecutarse en un sistema e infectarlo aprovech¨¢ndose de una vulnerabilidad.
 
 #### MAS INFORMACÓN
-- https://lpericena.blogspot.com/2019/01/xploitz-para-facebook.html
+- https://lpericena.blogspot.com/2019/06/vulnerabilidad-en-facebook-hacker-con.html
 - https://pericena.github.io/xploitZ.github.io/
 - https://aminoapps.com/c/world-hacking/page/blog/xploitz-para-facebook/ewvp_xNt3ubMxRw5b2B01Vea8jQvl8az6w
 
